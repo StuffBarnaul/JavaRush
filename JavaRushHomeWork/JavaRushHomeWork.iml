@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level03/lesson04" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level03/lesson04/task02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level06" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level06/lesson11" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level07" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level08" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level09" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level10" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level11" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level12" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level13" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level14" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level15" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level16" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level17" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level18" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level19" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level20" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level21" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level22" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level22/lesson05" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level22/lesson07" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level22/lesson09" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level23" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level24/lesson06/home03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level24/lesson09/task01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level25" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level25/lesson02" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

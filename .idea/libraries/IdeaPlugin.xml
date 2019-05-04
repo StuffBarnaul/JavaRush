@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IdeaPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaRushIdeaPlugin/lib/IdeaPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
