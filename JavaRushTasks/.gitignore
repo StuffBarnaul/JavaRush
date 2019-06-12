@@ -14,5 +14,7 @@ target/
 *.properties
 *.jar
 
+/JavaRushPlugin.properties
+/Instruction.png
 /out.log
 /out.log.*
